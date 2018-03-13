@@ -1,0 +1,12 @@
+[2018-03-07 13:41:21.191] [exthost1] [info] extension host started
+[2018-03-07 13:41:21.220] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:41:21.220] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/emmet/out/extension
+[2018-03-07 13:41:21.289] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:41:21.289] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/git/out/main
+[2018-03-07 13:41:21.382] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:41:21.382] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/merge-conflict/out/extension
+[2018-03-07 13:41:21.394] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:41:21.394] [exthost1] [info] ExtensionService#loadCommonJSModule /home/b/.vscode-insiders/extensions/ms-vscode.cpptools-0.15.0/out/src/main
+[2018-03-07 13:41:21.553] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:41:21.553] [exthost1] [info] ExtensionService#loadCommonJSModule /home/b/.vscode-insiders/extensions/robertohuertasm.vscode-icons-7.20.0/out/src/
+[2018-03-07 13:41:21.648] [exthost1] [info] eager extensions activated

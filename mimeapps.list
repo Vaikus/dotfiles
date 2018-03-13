@@ -1,0 +1,35 @@
+[Added Associations]
+application/zip=xarchiver.desktop;
+text/x-csrc=atom-beta.desktop;jetbrains-clion.desktop;
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
+x-scheme-handler/mailto=exo-mail-reader.desktop
+text/x-java-source=jetbrains-idea.desktop;
+text/html=firefox.desktop;staruml.desktop;firefox-nightly.desktop;
+image/png=display-im6.q16.desktop;
+text/plain=mars.desktop;mousepad.desktop;
+application/pdf=evince.desktop;
+text/x-java=vim.desktop;
+d2l/unknowntype=code-insiders.desktop;
+x-scheme-handler/http=firefox-nightly.desktop;
+x-scheme-handler/https=firefox-nightly.desktop;
+x-scheme-handler/ftp=firefox-nightly.desktop;
+x-scheme-handler/chrome=firefox-nightly.desktop;
+application/x-extension-htm=firefox-nightly.desktop;
+application/x-extension-html=firefox-nightly.desktop;
+application/x-extension-shtml=firefox-nightly.desktop;
+application/xhtml+xml=firefox-nightly.desktop;
+application/x-extension-xhtml=firefox-nightly.desktop;
+application/x-extension-xht=firefox-nightly.desktop;
+
+[Default Applications]
+text/html=firefox-nightly.desktop
+x-scheme-handler/http=firefox-nightly.desktop
+x-scheme-handler/https=firefox-nightly.desktop
+x-scheme-handler/ftp=firefox-nightly.desktop
+x-scheme-handler/chrome=firefox-nightly.desktop
+application/x-extension-htm=firefox-nightly.desktop
+application/x-extension-html=firefox-nightly.desktop
+application/x-extension-shtml=firefox-nightly.desktop
+application/xhtml+xml=firefox-nightly.desktop
+application/x-extension-xhtml=firefox-nightly.desktop
+application/x-extension-xht=firefox-nightly.desktop

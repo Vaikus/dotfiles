@@ -1,0 +1,14 @@
+[2018-02-13 19:31:06.683] [exthost1] [info] extension host started
+[2018-02-13 19:31:06.708] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-02-13 19:31:06.708] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/emmet/out/extension
+[2018-02-13 19:31:06.763] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-02-13 19:31:06.763] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/git/out/main
+[2018-02-13 19:31:06.862] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-02-13 19:31:06.862] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/merge-conflict/out/extension
+[2018-02-13 19:31:06.874] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-02-13 19:31:06.874] [exthost1] [info] ExtensionService#loadCommonJSModule /home/b/.vscode-insiders/extensions/robertohuertasm.vscode-icons-7.19.0/out/src/
+[2018-02-13 19:31:06.952] [exthost1] [info] eager extensions activated
+[2018-02-13 19:31:06.952] [exthost1] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"activationEvent":"onLanguage:java"}
+[2018-02-13 19:31:06.952] [exthost1] [info] ExtensionService#loadCommonJSModule /home/b/.vscode-insiders/extensions/redhat.java-0.18.1/out/src/extension
+[2018-02-13 19:31:09.150] [exthost1] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"activationEvent":"onLanguage:java"}
+[2018-02-13 19:31:09.150] [exthost1] [info] ExtensionService#loadCommonJSModule /home/b/.vscode-insiders/extensions/vscjava.vscode-java-debug-0.6.0/out/src/extension

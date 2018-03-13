@@ -1,0 +1,26 @@
+T 1517808645 19*	Now talking on 22#fuchsia
+T 1517808645 22*	Topic for 22#fuchsia is: Pink + Purple == Fuchsia (a new Operating System); https://fuchsia.googlesource.com/ || Build Status: https://fuchsia-dashboard.appspot.com || Code of Conduct: https://fuchsia.googlesource.com/docs/+/master/CODE_OF_CONDUCT.md || qemu=nogui
+T 1517808645 22*	Topic for 22#fuchsia set by 26tkilbourn!sid173849@gateway/web/irccloud.com/x-crxzrqvsiinzzxzq (24Sun Nov 12 17:16:01 2017)
+T 1517808654 -18NickServ-	You failed to identify in time for the nickname b
+T 1517808654 20*	You are now known as 18Guest89360
+T 1517810070 24*	freakazoid0223_ has quit (Quit: Man who run behind car get exhausted)
+T 1517813573 20*	Disconnected (20)
+T 1517813590 22*	26Guest89360 sets mode 24+Z on 22Guest89360
+T 1517813590 22*	26Guest89360 sets mode 24+i on 22Guest89360
+T 1517813596 19*	Now talking on 22#fuchsia
+T 1517813596 22*	Topic for 22#fuchsia is: Pink + Purple == Fuchsia (a new Operating System); https://fuchsia.googlesource.com/ || Build Status: https://fuchsia-dashboard.appspot.com || Code of Conduct: https://fuchsia.googlesource.com/docs/+/master/CODE_OF_CONDUCT.md || qemu=nogui
+T 1517813596 22*	Topic for 22#fuchsia set by 26tkilbourn!sid173849@gateway/web/irccloud.com/x-crxzrqvsiinzzxzq (24Sun Nov 12 17:16:01 2017)
+T 1517813753 20*	Disconnected (20)
+T 1517813773 22*	26Guest89360 sets mode 24+Z on 22Guest89360
+T 1517813773 22*	26Guest89360 sets mode 24+i on 22Guest89360
+T 1517813779 19*	Now talking on 22#fuchsia
+T 1517813779 22*	Topic for 22#fuchsia is: Pink + Purple == Fuchsia (a new Operating System); https://fuchsia.googlesource.com/ || Build Status: https://fuchsia-dashboard.appspot.com || Code of Conduct: https://fuchsia.googlesource.com/docs/+/master/CODE_OF_CONDUCT.md || qemu=nogui
+T 1517813779 22*	Topic for 22#fuchsia set by 26tkilbourn!sid173849@gateway/web/irccloud.com/x-crxzrqvsiinzzxzq (24Sun Nov 12 17:16:01 2017)
+T 1517817279 23*	jdanek (jdanek@nat/redhat/x-fptbyfpdjafpnbll23) has joined
+T 1517818171 24*	ghishadow has quit (Read error: Connection reset by peer)
+T 1517818206 24*	jdanek has quit (Quit: Leaving)
+T 1517818228 23*	jdanek (jdanek@nat/redhat/x-ykplyquondulpicj23) has joined
+T 1517818367 23*	ghishadow (~ghishadow@117.199.28.12423) has joined
+T 1517819742 24*	Stents has quit (Read error: Connection reset by peer)
+T 1517820009 23*	Sogator (~quassel@dslb-092-074-070-168.092.074.pools.vodafone-ip.de23) has joined
+T 1517820118 23*	figurehe4d (~figurehe4@2605:e000:1c01:31a:c958:5a5e:e1e8:2e2b23) has joined

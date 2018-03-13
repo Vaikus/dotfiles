@@ -1,0 +1,10 @@
+[2018-03-07 13:40:24.553] [exthost1] [info] extension host started
+[2018-03-07 13:40:24.574] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:40:24.574] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/emmet/out/extension
+[2018-03-07 13:40:24.646] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:40:24.646] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/git/out/main
+[2018-03-07 13:40:24.797] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:40:24.797] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/merge-conflict/out/extension
+[2018-03-07 13:40:24.815] [exthost1] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-03-07 13:40:24.815] [exthost1] [info] ExtensionService#loadCommonJSModule /home/b/.vscode-insiders/extensions/robertohuertasm.vscode-icons-7.19.0/out/src/
+[2018-03-07 13:40:24.919] [exthost1] [info] eager extensions activated

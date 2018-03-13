@@ -1,0 +1,33 @@
+[2018-03-07 13:40:53.415] [sharedprocess] [info] main {"machineId":"0b4c7ed6130999a84114915ef4bbc991a0a0f9ccfb270600a18715d8a36c6c23"}
+[2018-03-07 13:40:53.483] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:40:53.521] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:40:55.059] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:40:55.063] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:40:55.071] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:40:55.082] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:40:55.131] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:40:55.135] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:40:55.138] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:40:56.528] [sharedprocess] [info] Installing extension: code-runner
+[2018-03-07 13:40:56.534] [sharedprocess] [info] Installing extension: cpptools
+[2018-03-07 13:40:56.536] [sharedprocess] [info] Installing extension: java
+[2018-03-07 13:40:56.538] [sharedprocess] [info] Installing extension: vscode-icons
+[2018-03-07 13:40:58.651] [sharedprocess] [info] Downloaded extension: code-runner
+[2018-03-07 13:40:58.790] [sharedprocess] [info] Extracted extension to /home/b/.vscode-insiders/extensions/formulahendry.code-runner-0.9.0: formulahendry.code-runner-0.9.0
+[2018-03-07 13:40:58.813] [sharedprocess] [info] Updated metadata of the extension: formulahendry.code-runner-0.9.0
+[2018-03-07 13:40:58.814] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2018-03-07 13:40:59.741] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:40:59.839] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:40:59.860] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:41:00.589] [sharedprocess] [info] Downloaded extension: vscode-icons
+[2018-03-07 13:41:00.634] [sharedprocess] [info] Downloaded extension: cpptools
+[2018-03-07 13:41:01.261] [sharedprocess] [info] Extracted extension to /home/b/.vscode-insiders/extensions/ms-vscode.cpptools-0.15.0: ms-vscode.cpptools-0.15.0
+[2018-03-07 13:41:01.287] [sharedprocess] [info] Updated metadata of the extension: ms-vscode.cpptools-0.15.0
+[2018-03-07 13:41:01.287] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2018-03-07 13:41:01.408] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:01.429] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:41:01.883] [sharedprocess] [info] Extracted extension to /home/b/.vscode-insiders/extensions/robertohuertasm.vscode-icons-7.20.0: robertohuertasm.vscode-icons-7.20.0
+[2018-03-07 13:41:01.906] [sharedprocess] [info] Updated metadata of the extension: robertohuertasm.vscode-icons-7.20.0
+[2018-03-07 13:41:01.907] [sharedprocess] [info] Extensions installed successfully: robertohuertasm.vscode-icons
+[2018-03-07 13:41:02.025] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:02.041] [sharedprocess] [info] Scanned system extensions: 65

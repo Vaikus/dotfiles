@@ -1,0 +1,28 @@
+**** BEGIN LOGGING AT Sun Feb  4 22:30:14 2018
+
+Feb 04 22:30:14 *	Connecting to chat.freenode.net (94.125.182.252:6697)
+Feb 04 22:30:16 *	* Certification info:
+Feb 04 22:30:16 *	  Subject:
+Feb 04 22:30:16 *	    CN=adams.freenode.net
+Feb 04 22:30:16 *	  Issuer:
+Feb 04 22:30:16 *	    C=US
+Feb 04 22:30:16 *	    O=Let's Encrypt
+Feb 04 22:30:16 *	    CN=Let's Encrypt Authority X3
+Feb 04 22:30:16 *	  Public key algorithm: rsaEncryption (4096 bits)
+Feb 04 22:30:16 *	  Sign algorithm sha256WithRSAEncryption
+Feb 04 22:30:16 *	  Valid since Jan  8 05:02:50 2018 GM to Apr  8 05:02:50 2018 GM
+Feb 04 22:30:16 *	* Cipher info:
+Feb 04 22:30:16 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+Feb 04 22:30:16 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Sun Feb  4 23:53:10 2018
+
+Feb 04 23:53:10 *	Guest89360 sets mode +Z on Guest89360
+Feb 04 23:53:10 *	Guest89360 sets mode +i on Guest89360
+**** ENDING LOGGING AT Sun Feb  4 23:53:16 2018
+
+**** BEGIN LOGGING AT Sun Feb  4 23:56:13 2018
+
+Feb 04 23:56:13 *	Guest89360 sets mode +Z on Guest89360
+Feb 04 23:56:13 *	Guest89360 sets mode +i on Guest89360
+**** ENDING LOGGING AT Sun Feb  4 23:56:19 2018
+

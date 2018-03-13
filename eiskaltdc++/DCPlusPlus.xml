@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DCPlusPlus>
+	<Settings>
+		<ConfigVersion type="string">2.2.10</ConfigVersion>
+		<CID type="string">I4IDUMF6NDSHRS2OZPHUNDTEUSPKRKIER73W4CY</CID>
+		<DHTKey type="string">LYYUTJV25DWQMLEFNHHFEY4NOKPOAEWPJFT3ATI</DHTKey>
+		<Slots type="int">3</Slots>
+		<TotalUpload type="int64">0</TotalUpload>
+		<TotalDownload type="int64">0</TotalDownload>
+	</Settings>
+	<SearchTypes>
+		<SearchType Id="7">iso;mdf;mds;nrg;vcd;bwt;ccd;cdi;pdi;cue;isz;img;vc4</SearchType>
+		<SearchType Id="2">7z;ace;arj;bz2;gz;lha;lzh;rar;tar;z;zip</SearchType>
+		<SearchType Id="1">ape;flac;m4a;mid;mp3;mpc;ogg;ra;wav;wma</SearchType>
+		<SearchType Id="5">bmp;cdr;eps;gif;ico;img;jpeg;jpg;png;ps;psd;sfw;tga;tif;webp</SearchType>
+		<SearchType Id="3">doc;docx;htm;html;nfo;odf;odp;ods;odt;pdf;ppt;pptx;rtf;txt;xls;xlsx;xml;xps</SearchType>
+		<SearchType Id="4">app;bat;cmd;com;dll;exe;jar;msi;ps1;vbs;wsf</SearchType>
+		<SearchType Id="6">3gp;asf;asx;avi;divx;flv;mkv;mov;mp4;mpeg;mpg;ogm;pxp;qt;rm;rmvb;swf;vob;webm;wmv</SearchType>
+	</SearchTypes>
+	<Share/>
+</DCPlusPlus>

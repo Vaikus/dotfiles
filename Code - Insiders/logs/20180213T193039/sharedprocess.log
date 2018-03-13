@@ -1,0 +1,13 @@
+[2018-02-13 19:30:39.859] [sharedprocess] [info] main {"machineId":"0b4c7ed6130999a84114915ef4bbc991a0a0f9ccfb270600a18715d8a36c6c23"}
+[2018-02-13 19:30:39.935] [sharedprocess] [info] Scanned user extensions: 8
+[2018-02-13 19:30:39.966] [sharedprocess] [info] Scanned system extensions: 65
+[2018-02-13 19:30:41.229] [sharedprocess] [info] Scanned user extensions: 8
+[2018-02-13 19:30:41.232] [sharedprocess] [info] Scanned user extensions: 8
+[2018-02-13 19:30:41.267] [sharedprocess] [info] Scanned system extensions: 65
+[2018-02-13 19:30:41.314] [sharedprocess] [info] Scanned user extensions: 8
+[2018-02-13 19:30:42.681] [sharedprocess] [info] Installing extension: vscode-java-pack
+[2018-02-13 19:30:42.698] [sharedprocess] [info] Scanned user extensions: 8
+[2018-02-13 19:30:42.717] [sharedprocess] [info] Scanned system extensions: 65
+[2018-02-13 19:30:42.996] [sharedprocess] [info] Installing extension: vscode-maven
+[2018-02-13 19:30:42.997] [sharedprocess] [info] Installing extension: vscode-java-test
+[2018-02-13 19:30:44.034] [sharedprocess] [info] Downloaded extension: vscode-maven

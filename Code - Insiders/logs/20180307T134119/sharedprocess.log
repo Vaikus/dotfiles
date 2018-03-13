@@ -1,0 +1,20 @@
+[2018-03-07 13:41:19.759] [sharedprocess] [info] main {"machineId":"0b4c7ed6130999a84114915ef4bbc991a0a0f9ccfb270600a18715d8a36c6c23"}
+[2018-03-07 13:41:19.816] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:19.985] [sharedprocess] [info] Deleted from disk robertohuertasm.vscode-icons-7.19.0
+[2018-03-07 13:41:19.985] [sharedprocess] [info] Deleted from disk formulahendry.code-runner-0.8.7
+[2018-03-07 13:41:19.985] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools-0.14.6
+[2018-03-07 13:41:19.987] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:41:20.969] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:20.973] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:20.983] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:21.029] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:41:21.033] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:41:22.537] [sharedprocess] [info] Installing extension: java
+[2018-03-07 13:41:23.629] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:39.854] [sharedprocess] [info] Downloaded extension: java
+[2018-03-07 13:41:40.480] [sharedprocess] [info] Extracted extension to /home/b/.vscode-insiders/extensions/redhat.java-0.20.0: redhat.java-0.20.0
+[2018-03-07 13:41:40.506] [sharedprocess] [info] Updated metadata of the extension: redhat.java-0.20.0
+[2018-03-07 13:41:40.507] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2018-03-07 13:41:40.638] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-07 13:41:40.659] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-07 13:41:59.766] [sharedprocess] [info] Starting to clean up unused language packs.
